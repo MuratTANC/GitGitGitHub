@@ -1,5 +1,5 @@
 public class US {
 
-    // localede oluşturuldu
+    // localede oluşturuldu kutlu bey lütfen kodları degiştirmeyelim
 
 }
