@@ -1,5 +1,5 @@
 public class US {
 
-    // localede oluşturuldu
+    // localde oluşturulmadi yazisi yazilarak degisiklik yaptim ayni satirda
 
 }
